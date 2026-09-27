@@ -11,7 +11,7 @@ deterministic code. Kept as a record of that session.
 
 Built by **[Lordmark Dorgu](https://github.com/Kikobazz123)** for AI BuildFest 2026.
 
-<!-- TODO: add screenshot (or link the dashboard's live demo) -->
+The finished product is live at <https://brightpath-dashboard.vercel.app> (built from the dashboard repo, not this one).
 
 ---
 
